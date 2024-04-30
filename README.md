@@ -1,5 +1,6 @@
-
-[![MasterHead]([https://images4.alphacoders.com/135/1357925.png](https://i.hizliresim.com/g9uci84.jpg))]
+<p align="center">
+  <img src="https://images4.alphacoders.com/135/1357925.png" alt="Banner" width="100%">
+</p>
 <h1 align="center">Merhaba 👋, Ben Oktay YAVUZ</h1>
 <h3 align="center">Fullstack Developer & Designer 🇹🇷</h3>
 
