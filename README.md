@@ -16,7 +16,7 @@
 
 - 🔭 BioLink [Bio Link Altyapısı](https://github.com/oktayyavuz/biolink)
 
-- 👨‍💻 BioLink [oktayyavuz.glitch.me](oktayyavuz.glitch.me)
+-  [👨‍💻 BioLink](https://oktayyavuz.glitch.me)
 
 - 📫 İletişim **oktayyavuz_1@outlook.com**
 
