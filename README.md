@@ -1,5 +1,5 @@
 
-[![MasterHead](https://images4.alphacoders.com/135/1357925.png)]
+[![MasterHead]([https://images4.alphacoders.com/135/1357925.png](https://images4.alphacoders.com/135/1357925.png))]
 <h1 align="center">Merhaba 👋, Ben Oktay YAVUZ</h1>
 <h3 align="center">Fullstack Developer & Designer 🇹🇷</h3>
 
