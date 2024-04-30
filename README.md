@@ -1,5 +1,5 @@
 
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a59c651d-50e5-4932-ba0b-66f28db15dea/dei9001-65127572-cd9d-4ced-8af2-19fa3cd8985b.png/v1/fill/w_1192,h_670,q_70,strp/rimuru_tempest_wallpaper_by_kownykwy_dei9001-pre.jpg)
+[![MasterHead](https://images4.alphacoders.com/135/1357925.png)
 <h1 align="center">Merhaba 👋, Ben Oktay YAVUZ</h1>
 <h3 align="center">Fullstack Developer & Designer 🇹🇷</h3>
 
