@@ -11,11 +11,13 @@
 
 - 🌱 Şuanda Öğrendiklerim **C++, TS, Kotlin etc.**
 
-- 🔭 Discord Bot [Kirito Discord v14 Eğlence Botu](https://github.com/oktayyavuz/Kirito-v14-Bot-Altyapisi)
+- 🔭 Discord Bot: [Kirito Discord v14 Eğlence Botu](https://github.com/oktayyavuz/Kirito-v14-Bot-Altyapisi)
 
-- 🔭 BioLink [Bio Link Altyapısı](https://github.com/oktayyavuz/biolink)
+- 🔭 BioLink: [Bio Link Altyapısı](https://github.com/oktayyavuz/biolink)
 
--  [👨‍💻 BioLink](https://oktayyavuz.glitch.me)
+-  🌐Website: [https://oktaydev.com.tr](https://oktaydev.com.tr/)
+
+-  👨‍💻 BioLink: [👨‍💻 BioLink](https://oktaydev.com.tr/bio)](https://oktaydev.com.tr/bio)
 
 - 📫 İletişim **oktayyavuz_1@outlook.com**
 
