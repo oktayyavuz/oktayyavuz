@@ -17,8 +17,7 @@
 
 -  🌐Website: [https://oktaydev.com.tr](https://oktaydev.com.tr/)
 
--  👨‍💻 BioLink: [👨‍💻 BioLink](https://oktaydev.com.tr/bio)](https://oktaydev.com.tr/bio)
-
+-  👨‍💻 BioLink: [👨‍💻 BioLink](https://oktaydev.com.tr/bio)
 - 📫 İletişim **oktayyavuz_1@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
