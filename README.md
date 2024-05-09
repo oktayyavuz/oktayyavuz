@@ -1,7 +1,7 @@
 
 <h1 align="center">Merhaba 👋, Ben Oktay YAVUZ</h1>
 <h3 align="center">Fullstack Developer & Designer 🇹🇷</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&show_icons=true&locale=en" alt="oktayyavuz" /></p>
+<p style="text-align: center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&show_icons=true&locale=en" alt="oktayyavuz" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="oktayyavuz" /> </p>
 
