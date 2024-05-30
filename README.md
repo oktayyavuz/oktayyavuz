@@ -1,8 +1,9 @@
 
 <h1 align="center">Merhaba 👋, Ben Oktay YAVUZ</h1>
 <h3 align="center">Fullstack Developer & Designer 🇹🇷</h3>
+<div align="center"> 
 <p style="text-align: center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&show_icons=true&locale=en" alt="oktayyavuz" /></p>
-
+</div>
 <div align="center"> 
 
   [![Mondstadt Discord](https://api.weblutions.com/discord/invite/mondstadt)](https://api.weblutions.com/discord/invite/mondstadt)
