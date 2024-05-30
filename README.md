@@ -3,8 +3,10 @@
 <h3 align="center">Fullstack Developer & Designer 🇹🇷</h3>
 <p style="text-align: center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&show_icons=true&locale=en" alt="oktayyavuz" /></p>
 
-[![https://api.weblutions.com/discord/invite/mondstadt](https://api.weblutions.com/discord/invite/mondstadt)](https://api.weblutions.com/discord/invite/mondstadt)
+<div align="center"> 
 
+  [![Mondstadt Discord](https://api.weblutions.com/discord/invite/mondstadt)](https://api.weblutions.com/discord/invite/mondstadt)
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="oktayyavuz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/oktayyavuz_0" target="blank"><img src="https://img.shields.io/twitter/follow/oktayyavuz_0?logo=twitter&style=for-the-badge" alt="oktayyavuz_0" /></a> </p>
