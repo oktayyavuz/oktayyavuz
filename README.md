@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://api.weblutions.com/discord/invite/dvCKjxHn35">
-    <img src="https://api.weblutions.com/discord/invite/dvCKjxHn35" alt="Mondstadt Discord" />
+    <img src="https://api.weblutions.com/discord/invite/dvCKjxHn35" alt="O.dev Discord" />
   </a>
 </p>
 
