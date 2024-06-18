@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://api.weblutions.com/discord/invite/mondstadt">
-    <img src="https://api.weblutions.com/discord/invite/mondstadt" alt="Mondstadt Discord" />
+  <a href="https://api.weblutions.com/discord/invite/dvCKjxHn35">
+    <img src="https://api.weblutions.com/discord/invite/dvCKjxHn35" alt="Mondstadt Discord" />
   </a>
 </p>
 
