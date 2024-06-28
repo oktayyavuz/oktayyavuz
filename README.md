@@ -5,11 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&show_icons=true&locale=en" alt="oktayyavuz" />
 </p>
 
-<p align="center">
-  <a href="https://api.weblutions.com/discord/invite/dvCKjxHn35">
-    <img src="https://api.weblutions.com/discord/invite/dvCKjxHn35" alt="Rimuru Shop" />
-  </a>
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="oktayyavuz" />
