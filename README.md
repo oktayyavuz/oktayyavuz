@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://api.weblutions.com/discord/invite/dvCKjxHn35">
-    <img src="https://api.weblutions.com/discord/invite/dvCKjxHn35" alt="Rimuru Shop" />
+  <a href="[https://api.weblutions.com/discord/invite/dvCKjxHn35](https://api.weblutions.com/discord/invite/dvCKjxHn35)">
+    <img src="[https://api.weblutions.com/discord/invite/dvCKjxHn35](https://api.weblutions.com/discord/invite/dvCKjxHn35)" alt="Rimuru Shop" />
   </a>
 </p>
 
