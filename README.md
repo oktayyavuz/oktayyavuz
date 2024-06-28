@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://api.weblutions.com/discord/invite/dvCKjxHn35">
-    <img src="https://api.weblutions.com/discord/invite/dvCKjxHn35" alt="O.dev Discord" />
+    <img src="https://api.weblutions.com/discord/invite/dvCKjxHn35" alt="Rimuru Shop" />
   </a>
 </p>
 
