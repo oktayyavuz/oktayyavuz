@@ -29,7 +29,7 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
 
 <p align="center">
   <a href="https://www.oksitweb.com">
-    <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png' width="300" height="250" />
+    <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png' />
   </a>
 </p>
 
