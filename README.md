@@ -1,8 +1,26 @@
-<h1 align="center">Merhaba 👋, Ben Oktay YAVUZ</h1>
-<h3 align="center">Fullstack Developer & Designer 🇹🇷</h3>
+<h1>GitHub profilime hoş geldiniz  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px"></h1>
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&theme=dark&hide_border=true&layout=compact">
+
+Merhaba 👋 Ben  <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye**'den genç bir geliştiriciyim. 2016'dan beri Node.js, React.js, TypeScript, Java, Php, Html-Css, Laravel, C, C++, Python ve daha birçok modern teknolojiyi kullanarak profesyonel olarak uygulamalar geliştiriyorum! Her zaman kendimi geliştirmeye ve sektör hakkında daha fazlasını öğrenmeye çalışıyorum. 
+
+Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modları geliştirirerek girdiğim bu sektörde hayatımı daha iyi bir noktaya getirme için çaba gösteriyorum.
+
+### Projeler ve Linkler
+
+- [Discord Genel Bot Projesi](https://github.com/oktayyavuz/Rimuru-Discord.js-v14-Bot)
+- [Discord Sunucum](https://discord.gg/2xp5Vn4DVt)
+- [Websitem](https://oktaydev.com.tr)
+- [Botumun Davet Linki](https://discord.com/oauth2/authorize?client_id=1229312139517235281&permissions=8&scope=bot+applications.commands)
+
+### Sponosrlar
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&show_icons=true&locale=en" alt="oktayyavuz" />
+  <a href="https://www.oksitweb.com">
+    <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png'/>
+  </a>
 </p>
 
 <p align="center">
@@ -21,35 +39,6 @@
   </a>
 </p>
 
----
-
-- 🔭 Discord Bot: [Rimuru Discord v14 Genel Bot](https://github.com/oktayyavuz/Rimuru-Discord.js-v14-Bot)
-- 🌱 Şuanda Öğrendiklerim: C++, TypeScript, Kotlin, vb.
-- 🔭 Discord Bot: [Kirito Discord v14 Eğlence Botu](https://github.com/oktayyavuz/Kirito-v14-Bot-Altyapisi)
-- 🔭 BioLink: [Bio Link Altyapısı](https://github.com/oktayyavuz/biolink)
-- 🌐 Website: [https://oktaydev.com.tr](https://oktaydev.com.tr/)
-- 👨‍💻 BioLink: [👨‍💻 BioLink](https://oktaydev.com.tr/bio)
-- 📫 İletişim: [oktayyavuz_1@outlook.com](mailto:oktayyavuz_1@outlook.com)
-
----
-
-<h3 align="left">Contact:</h3>
-<p align="left">
-  <a href="https://twitter.com/oktayyavuz_0" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oktayyavuz_0" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/oktayiste" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oktayiste" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/oktayyavuz_1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oktayyavuz_1" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/mondstadt" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mondstadt" height="30" width="40" />
-  </a>
-</p>
-
----
 
 <div align="center">
   <picture>
