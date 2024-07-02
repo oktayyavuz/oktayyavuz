@@ -15,20 +15,6 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
 - [Websitem](https://oktaydev.com.tr)
 - [Botumun Davet Linki](https://discord.com/oauth2/authorize?client_id=1229312139517235281&permissions=8&scope=bot+applications.commands)
 
-### Sponosrlar
-
-<p align="center">
-  <a href="https://www.oksitweb.com">
-    <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png'/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://api.weblutions.com/discord/invite/2xp5Vn4DVt">
-    <img src="https://api.weblutions.com/discord/invite/2xp5Vn4DVt" alt="Rimuru Shop" />
-  </a>
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="oktayyavuz" />
 </p>
@@ -38,6 +24,17 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
     <img src="https://img.shields.io/twitter/follow/oktayyavuz_0?logo=twitter&style=for-the-badge" alt="oktayyavuz_0" />
   </a>
 </p>
+
+### Sponsorlar
+
+<p align="center">
+  <a href="https://www.oksitweb.com">
+    <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png' width="300" height="250" />
+  </a>
+</p>
+
+
+
 
 
 <div align="center">
