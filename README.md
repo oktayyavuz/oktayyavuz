@@ -11,9 +11,11 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
 ### Projeler ve Linkler
 
 - [Discord Genel Bot Projesi](https://github.com/oktayyavuz/Rimuru-Discord.js-v14-Bot)
+- [Discord Slashlı ve Prefixli Bot](https://github.com/oktayyavuz/naofumi)
 - [Discord Sunucum](https://discord.gg/2xp5Vn4DVt)
 - [Websitem](https://oktaydev.com.tr)
 - [Botumun Davet Linki](https://discord.com/oauth2/authorize?client_id=1229312139517235281&permissions=8&scope=bot+applications.commands)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="oktayyavuz" />
