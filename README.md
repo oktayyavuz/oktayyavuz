@@ -21,11 +21,6 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
   <img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="oktayyavuz" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/oktayyavuz_0" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/oktayyavuz_0?logo=twitter&style=for-the-badge" alt="oktayyavuz_0" />
-  </a>
-</p>
 
 ### Sponsorlar
 
