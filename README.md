@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=false">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&theme=dark&hide_border=true&layout=compact"> 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
 
 Merhaba 👋 Ben  <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye**'den genç bir geliştiriciyim. 2016'dan beri Node.js, React.js, TypeScript, Java, Php, Html-Css, Laravel, C, C++, Python ve daha birçok modern teknolojiyi kullanarak profesyonel olarak uygulamalar geliştiriyorum! Her zaman kendimi geliştirmeye ve sektör hakkında daha fazlasını öğrenmeye çalışıyorum. 
 
