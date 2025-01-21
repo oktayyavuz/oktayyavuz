@@ -6,6 +6,11 @@ Merhaba 👋 Ben  <img width="20" height="20" align="center" src="https://i.imgu
 
 Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modları geliştirirerek girdiğim bu sektörde hayatımı daha iyi bir noktaya getirme için çaba gösteriyorum.
 
+### Sponsorlar
+  <a href="https://www.oksitweb.com">
+    <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png'  widht="auto" height="40px"/>
+  </a>
+  
 ### Projeler ve Linkler
 
 - [Discord Genel Bot Projesi](https://github.com/oktayyavuz/Rimuru-Discord.js-v14-Bot)
@@ -15,16 +20,11 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
 - [Botumun Davet Linki](https://discord.com/oauth2/authorize?client_id=1229312139517235281&permissions=8&scope=bot+applications.commands)
 
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="oktayyavuz" />
 </p>
 
-
-### Sponsorlar
-  <a href="https://www.oksitweb.com">
-    <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png'  widht="auto" height="60px"/>
-  </a>
-  
+  <br><br>
 <p align="center">
 
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
