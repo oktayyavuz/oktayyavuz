@@ -28,7 +28,6 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
 <p align="center">
 
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
-  <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"> 
 
 </p>
