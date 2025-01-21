@@ -1,8 +1,6 @@
 <h2>GitHub profilime hoş geldiniz  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="30px" width= "30px"></h2>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
-<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"> 
+
 
 Merhaba 👋 Ben  <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye**'den genç bir geliştiriciyim. 2016'dan beri Node.js, React.js, TypeScript, Java, Php, Html-Css, Laravel, C, C++, Python ve daha birçok modern teknolojiyi kullanarak profesyonel olarak uygulamalar geliştiriyorum! Her zaman kendimi geliştirmeye ve sektör hakkında daha fazlasını öğrenmeye çalışıyorum. 
 
@@ -26,9 +24,15 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
 
 <p align="center">
   <a href="https://www.oksitweb.com">
-    <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png' />
+    <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png'  widht="auto" height="60px"/>
+
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
+  <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"> 
   </a>
 </p>
+
+
 
 
 
