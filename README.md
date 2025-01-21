@@ -24,11 +24,12 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
   <a href="https://www.oksitweb.com">
     <img src='https://www.oksitweb.com/resources/uploads/logo/2024-03-03/wisecp-turkiye-nin-dijital-hizmetler-otomasyonu.png'  widht="auto" height="60px"/>
   </a>
+  
 <p align="center">
 
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
   <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"> 
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"> 
 
 </p>
 
