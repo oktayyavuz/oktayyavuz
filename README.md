@@ -3,7 +3,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&count_private=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"> 
 
-Merhaba 👋 Ben  <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> **Türkiye**'den genç bir geliştiriciyim. 2016'dan beri Node.js, React.js, TypeScript, Java, Php, Html-Css, Laravel, C, C++, Python ve daha birçok modern teknolojiyi kullanarak profesyonel olarak uygulamalar geliştiriyorum! Her zaman kendimi geliştirmeye ve sektör hakkında daha fazlasını öğrenmeye çalışıyorum. 
+Merhaba 👋 Ben **Türkiye**'den genç bir geliştiriciyim. 2016'dan beri Node.js, React.js, TypeScript, Java, Php, Html-Css, Laravel, C, C++, Python ve daha birçok modern teknolojiyi kullanarak profesyonel olarak uygulamalar geliştiriyorum! Her zaman kendimi geliştirmeye ve sektör hakkında daha fazlasını öğrenmeye çalışıyorum. 
 
 Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modları geliştirirerek girdiğim bu sektörde hayatımı daha iyi bir noktaya getirme için çaba gösteriyorum.
 
