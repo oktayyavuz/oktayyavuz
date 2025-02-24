@@ -15,9 +15,6 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
 - [Websitem](https://oktaydev.com.tr)
 - [Botumun Davet Linki](https://discord.com/oauth2/authorize?client_id=1229312139517235281&permissions=8&scope=bot+applications.commands)
 
-<a href="https://discord.com/users/1193730158042021988">
-    <img src="https://api.oktaydev.online/users/card/1193730158042021988?img" width="300">
-</a>
 
 
 <p align="left">
