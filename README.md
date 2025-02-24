@@ -15,7 +15,7 @@ Lise yıllarımdan ilk kez **Arduino** bot projeleri ve **Minecraft** oyun modla
 - [Websitem](https://oktaydev.com.tr)
 - [Botumun Davet Linki](https://discord.com/oauth2/authorize?client_id=1229312139517235281&permissions=8&scope=bot+applications.commands)
 
-[![Discord Presence](https://api.oktaydev.online/users/card/1193730158042021988)](https://discord.com/users/1193730158042021988)
+![Discord Presence Card](https://api.oktaydev.online/users/card/1193730158042021988?img)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profile%20views&color=0e75b6&style=flat" alt="oktayyavuz" />
