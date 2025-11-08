@@ -11,7 +11,7 @@
 <a href="https://github.com/oktayyavuz"><img src="https://img.shields.io/badge/GitHub-@oktayyavuz-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://discord.com/users/oktayyavuzjp"><img src="https://img.shields.io/badge/Discord-@oktayyavuzjp-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profil+Görüntüleme&color=00FFFF&style=for-the-badge&label_color=000000" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profil+Görüntüleme&color=000000&style=for-the-badge&label_color=000000" alt="profile views" />
 
 </div>
 
@@ -87,14 +87,11 @@ const oktay = {
 
 ---
 
+
+
 <div align="center">
-💭 Rastgele Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad." alt="dev quote" />
 
-
-<div align="center">
-
-### 🐍 Katkı Grafiği
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
