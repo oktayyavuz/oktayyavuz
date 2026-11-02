@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0E7490&height=180&section=header&text=Oktay%20Yavuz&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&descColor=A5F3FC" width="100%" alt="Oktay Yavuz" />
-
-**Web, masaüstü ve bot uygulamaları geliştiriyorum · 2016'dan beri kod yazıyorum · 🇹🇷 Türkiye**
+<img src="./assets/header.svg" width="100%" alt="Oktay Yavuz — Full Stack Developer" />
 
 <a href="https://oktaydev.com"><img src="https://img.shields.io/badge/oktaydev.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Web" /></a>
 <a href="mailto:oktayyavuz_1@outlook.com"><img src="https://img.shields.io/badge/E--posta-0F172A?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="E-posta" /></a>
@@ -15,7 +13,7 @@
 
 ## Hakkımda
 
-Arduino ve Minecraft modlarıyla başladım; bugün web platformları, masaüstü uygulamaları ve Discord botları geliştiriyorum. **Rigel Techs** çatısı altında ürünleri fikirden yayına kadar uçtan uca hazırlıyorum.
+Web platformları, masaüstü uygulamaları ve Discord botları geliştiriyorum. **Rigel Techs** çatısı altında ürünleri fikirden yayına kadar uçtan uca hazırlıyorum.
 
 - 🔭 **Şu an:** Gecko tabanlı **Rigel Browser** ve **TürkAnimeList** üzerinde çalışıyorum
 - 🧩 **Odak:** Next.js / React, Node.js + Prisma, Electron ve Tauri
@@ -44,19 +42,6 @@ Arduino ve Minecraft modlarıyla başladım; bugün web platformları, masaüst�
 <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,express&theme=dark" alt="Diller ve web teknolojileri" />
 <br/>
 <img src="https://skillicons.dev/icons?i=prisma,postgres,sqlite,electron,tauri,flutter,docker,linux&theme=dark" alt="Veri, masaüstü ve araçlar" />
-
-</div>
-
----
-
-## Katkı Grafiği
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oktayyavuz/oktayyavuz/output/profile-night-view.svg">
-  <img src="https://raw.githubusercontent.com/oktayyavuz/oktayyavuz/output/profile-season-animate.svg" alt="3D katkı grafiği" width="100%" />
-</picture>
 
 </div>
 
