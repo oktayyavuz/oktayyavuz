@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 190" width="640" height="190" role="img" aria-label="Rigel Browser">
+  <style>
+.tw { fill: #E0F2FE; opacity: var(--o); animation: tw 5s ease-in-out infinite; }
+@keyframes tw { 0%, 100% { opacity: var(--o); } 50% { opacity: 0.08; } }
+.r { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+@keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+.neb { animation: drift 20s ease-in-out infinite alternate; }
+.neb2 { animation: drift 24s ease-in-out infinite alternate-reverse; }
+@keyframes drift { to { transform: translate(30px, -14px); } }
+.cursor { animation: blink 1.1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+.tag { font: 500 13px ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; fill: #22D3EE; letter-spacing: 2px; }
+.h { font: 700 32px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #F8FAFC; letter-spacing: -0.5px; }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+  .r { opacity: 1; }
+}
+
+.pn { font: 700 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #F8FAFC; letter-spacing: -0.4px; }
+.pd { font: 400 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #CBD5E1; }
+.chip { font: 500 12px ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; fill: #CFFAFE; }
+.st { font: 600 13px ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; fill: #CFFAFE; }
+</style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="1" stop-color="#0B1A2E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.14" stop-color="#E0F2FE"/>
+      <stop offset="0.4" stop-color="#38BDF8" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="trail" x1="0" x2="1">
+      <stop offset="0" stop-color="#F0F9FF"/>
+      <stop offset="1" stop-color="#F0F9FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A5F3FC" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="34"/></filter>
+    <clipPath id="clip"><rect width="640" height="190" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="640" height="190" fill="url(#bg)"/>
+    <ellipse class="neb" cx="600" cy="20" rx="170" ry="70" fill="#0E7490" opacity="0.38" filter="url(#blur)"/><ellipse class="neb2" cx="660" cy="190" rx="120" ry="50" fill="#4C1D95" opacity="0.22" filter="url(#blur)"/>
+    <circle class="tw" cx="97.5" cy="87.0" r="0.8" style="animation-delay:-4.23s;animation-duration:5.93s;--o:0.44"/><circle class="tw" cx="508.4" cy="100.9" r="0.6" style="animation-delay:-4.42s;animation-duration:4.05s;--o:0.56"/><circle class="tw" cx="412.6" cy="42.4" r="0.8" style="animation-delay:-1.86s;animation-duration:6.07s;--o:0.31"/><circle class="tw" cx="118.1" cy="39.6" r="0.9" style="animation-delay:-2.22s;animation-duration:4.64s;--o:0.66"/><circle class="tw" cx="259.1" cy="88.1" r="0.9" style="animation-delay:-5.41s;animation-duration:6.27s;--o:0.29"/><circle class="tw" cx="413.3" cy="28.1" r="0.6" style="animation-delay:-3.62s;animation-duration:3.59s;--o:0.67"/><circle class="tw" cx="108.1" cy="35.7" r="0.6" style="animation-delay:-5.48s;animation-duration:3.95s;--o:0.45"/><circle class="tw" cx="406.5" cy="166.6" r="0.8" style="animation-delay:-3.74s;animation-duration:6.03s;--o:0.23"/><circle class="tw" cx="161.2" cy="116.2" r="1.3" style="animation-delay:-4.28s;animation-duration:5.76s;--o:0.39"/><circle class="tw" cx="434.2" cy="102.6" r="0.9" style="animation-delay:-5.99s;animation-duration:4.61s;--o:0.23"/><circle class="tw" cx="69.6" cy="59.4" r="1.1" style="animation-delay:-1.52s;animation-duration:6.39s;--o:0.70"/><circle class="tw" cx="454.9" cy="142.5" r="1.3" style="animation-delay:-4.81s;animation-duration:6.61s;--o:0.34"/><circle class="tw" cx="42.6" cy="110.2" r="0.9" style="animation-delay:-0.99s;animation-duration:6.02s;--o:0.59"/><circle class="tw" cx="82.0" cy="15.0" r="1.3" style="animation-delay:-5.32s;animation-duration:6.54s;--o:0.49"/><circle class="tw" cx="141.9" cy="149.2" r="1.3" style="animation-delay:-2.14s;animation-duration:4.82s;--o:0.58"/><circle class="tw" cx="304.6" cy="152.3" r="0.6" style="animation-delay:-4.32s;animation-duration:3.84s;--o:0.41"/><circle class="tw" cx="594.1" cy="77.3" r="0.8" style="animation-delay:-3.71s;animation-duration:5.64s;--o:0.46"/><circle class="tw" cx="348.3" cy="130.7" r="0.8" style="animation-delay:-0.30s;animation-duration:4.90s;--o:0.62"/><circle class="tw" cx="631.2" cy="172.3" r="0.8" style="animation-delay:-0.57s;animation-duration:3.56s;--o:0.55"/><circle class="tw" cx="83.3" cy="17.9" r="1.1" style="animation-delay:-0.22s;animation-duration:4.71s;--o:0.45"/><circle class="tw" cx="442.8" cy="99.2" r="1.3" style="animation-delay:-3.48s;animation-duration:4.00s;--o:0.28"/><circle class="tw" cx="137.1" cy="79.5" r="1.3" style="animation-delay:-1.61s;animation-duration:6.96s;--o:0.67"/><circle class="tw" cx="534.6" cy="22.9" r="0.8" style="animation-delay:-5.99s;animation-duration:4.56s;--o:0.35"/><circle class="tw" cx="176.4" cy="60.2" r="0.6" style="animation-delay:-5.95s;animation-duration:5.23s;--o:0.33"/><circle class="tw" cx="12.1" cy="20.2" r="0.9" style="animation-delay:-3.86s;animation-duration:5.90s;--o:0.21"/><circle class="tw" cx="60.5" cy="110.2" r="0.9" style="animation-delay:-4.04s;animation-duration:4.78s;--o:0.60"/><circle class="tw" cx="121.7" cy="179.8" r="0.6" style="animation-delay:-4.16s;animation-duration:6.41s;--o:0.67"/><circle class="tw" cx="353.8" cy="34.3" r="0.6" style="animation-delay:-4.09s;animation-duration:3.05s;--o:0.38"/>
+    <text class="tag r" x="40" y="42">~/rigel-browser</text><text class="pn r" x="38" y="78" style="animation-delay:.12s">Rigel Browser</text><text class="pd r" x="40" y="106" style="animation-delay:0.25s">Firefox (Gecko) tabanlı kişisel tarayıcı: 5 düzen, Ctrl+K komut</text><text class="pd r" x="40" y="126" style="animation-delay:0.33s">paleti, çalışma alanları ve mod mağazası.</text><g class="r" style="animation-delay:0.50s"><rect x="40" y="142" width="56.5" height="24" rx="12" fill="#22D3EE" fill-opacity="0.07" stroke="#22D3EE" stroke-opacity="0.4"/><text class="chip" x="50" y="158.5">Gecko</text></g><g class="r" style="animation-delay:0.58s"><rect x="104.5" y="142" width="93.0" height="24" rx="12" fill="#22D3EE" fill-opacity="0.07" stroke="#22D3EE" stroke-opacity="0.4"/><text class="chip" x="114.5" y="158.5">JavaScript</text></g><g class="r" style="animation-delay:0.66s"><rect x="205.5" y="142" width="41.9" height="24" rx="12" fill="#22D3EE" fill-opacity="0.07" stroke="#22D3EE" stroke-opacity="0.4"/><text class="chip" x="215.5" y="158.5">CSS</text></g><text class="r" x="600" y="42" text-anchor="end" style="animation-delay:.3s;font:500 16px ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace;fill:#22D3EE;opacity:.6">↗</text>
+  </g>
+  <rect x="0.5" y="0.5" width="639" height="189" rx="18" fill="none" stroke="#22D3EE" stroke-opacity="0.16"/>
+</svg>

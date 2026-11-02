@@ -1,54 +1,29 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Oktay Yavuz — Full Stack Developer" />
+<a href="https://oktaydev.com"><img src="./assets/header.svg" width="100%" alt="Oktay Yavuz — Full Stack Developer" /></a>
 
-<a href="https://oktaydev.com"><img src="https://img.shields.io/badge/oktaydev.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Web" /></a>
-<a href="mailto:oktayyavuz_1@outlook.com"><img src="https://img.shields.io/badge/E--posta-0F172A?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="E-posta" /></a>
-<a href="https://discord.com/users/oktayyavuzjp"><img src="https://img.shields.io/badge/Discord-0F172A?style=for-the-badge&logo=discord&logoColor=22D3EE" alt="Discord" /></a>
-<a href="https://x.com/oktayyavuz_0"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=22D3EE" alt="X" /></a>
+<a href="https://oktaydev.com"><img src="./assets/btn-web.svg" height="32" alt="oktaydev.com" /></a>
+<a href="mailto:oktayyavuz_1@outlook.com"><img src="./assets/btn-mail.svg" height="32" alt="E-posta" /></a>
+<a href="https://discord.com/users/oktayyavuzjp"><img src="./assets/btn-discord.svg" height="32" alt="Discord" /></a>
+<a href="https://x.com/oktayyavuz_0"><img src="./assets/btn-x.svg" height="32" alt="X" /></a>
 
-</div>
+<a href="https://oktaydev.com"><img src="./assets/about.svg" width="100%" alt="Hakkımda" /></a>
 
----
+<a href="https://github.com/oktayyavuz?tab=repositories"><img src="./assets/projects.svg" width="100%" alt="Öne Çıkan Projeler" /></a>
 
-## Hakkımda
+<a href="https://github.com/oktayyavuz/RigelWebBrowser"><img src="./assets/p-rigel-browser.svg" width="49%" alt="Rigel Browser" /></a> <a href="https://github.com/oktayyavuz/rigel-download-manager"><img src="./assets/p-rigel-download-manager.svg" width="49%" alt="Rigel Download Manager" /></a>
 
-Web platformları, masaüstü uygulamaları ve Discord botları geliştiriyorum. **Rigel Techs** çatısı altında ürünleri fikirden yayına kadar uçtan uca hazırlıyorum.
+<a href="https://github.com/oktayyavuz/turkanimelist"><img src="./assets/p-turkanimelist.svg" width="49%" alt="TürkAnimeList" /></a> <a href="https://github.com/oktayyavuz/otakuoffice"><img src="./assets/p-otakuoffice.svg" width="49%" alt="Otaku Office" /></a>
 
-- 🔭 **Şu an:** Gecko tabanlı **Rigel Browser** ve **TürkAnimeList** üzerinde çalışıyorum
-- 🧩 **Odak:** Next.js / React, Node.js + Prisma, Electron ve Tauri
-- 💬 **Açığım:** Freelance projelere ve açık kaynak iş birliklerine
+<a href="https://github.com/oktayyavuz/weebplay"><img src="./assets/p-weebplay.svg" width="49%" alt="WeebPlay" /></a> <a href="https://github.com/oktayyavuz/Rimuru-Discord.js-v14-Bot"><img src="./assets/p-rimuru-bot.svg" width="49%" alt="Rimuru Bot" /></a>
 
----
+<a href="https://github.com/oktayyavuz/frieren-bot"><img src="./assets/p-frieren-bot.svg" width="49%" alt="Frieren Bot" /></a> <a href="https://github.com/oktayyavuz/naofumi"><img src="./assets/p-naofumi.svg" width="49%" alt="Naofumi" /></a>
 
-## Öne Çıkan Projeler
+<a href="https://tal.oktaydev.com"><img src="./assets/btn-demo.svg" height="32" alt="TürkAnimeList canlı demo" /></a>
+<a href="https://github.com/oktayyavuz?tab=repositories"><img src="./assets/btn-repos.svg" height="32" alt="Tüm repolar" /></a>
 
-| Proje | Açıklama | Teknolojiler |
-| :-- | :-- | :-- |
-| **[Rigel Browser](https://github.com/oktayyavuz/RigelWebBrowser)** | Firefox (Gecko) tabanlı kişisel tarayıcı: 5 düzen, `Ctrl+K` komut paleti, çalışma alanları ve mod mağazası | `Gecko` `JavaScript` `CSS` |
-| **[Rigel Download Manager](https://github.com/oktayyavuz/rigel-download-manager)** | Linux için açık kaynak IDM alternatifi: tarayıcıdaki videoyu yakalar, `yt-dlp` + `aria2` ile indirir | `Tauri` `Next.js` `Chrome MV3` |
-| **[TürkAnimeList](https://github.com/oktayyavuz/turkanimelist)** | Türkçe altyazılı anime platformu; puanlama, yorumlar ve izleme listeleri · [demo](https://tal.oktaydev.com) | `Next.js 16` `React 19` `Prisma` |
-| **[Otaku Office](https://github.com/oktayyavuz/otakuoffice)** | Not defteri, PDF araçları ve yapılacaklar listesini bir araya getiren masaüstü uygulaması | `Electron` `React` `TypeScript` |
-| **[WeebPlay](https://github.com/oktayyavuz/weebplay)** | PiP, kaldığın yerden devam ve hareket kontrollü medya oynatıcı | `Flutter` |
-| **[Rimuru Bot](https://github.com/oktayyavuz/Rimuru-Discord.js-v14-Bot)** | Toplulukta altyapı olarak kullanılan genel amaçlı moderasyon botu · ⭐ 65 | `Discord.js v14` |
-| **[Frieren Bot](https://github.com/oktayyavuz/frieren-bot)** | Frieren temalı büyü, ekonomi ve müzik sistemli Discord botu | `Discord.js` |
+<a href="https://github.com/oktayyavuz?tab=repositories"><img src="./assets/tech.svg" width="100%" alt="Teknolojiler" /></a>
 
----
-
-## Teknolojiler
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,express&theme=dark" alt="Diller ve web teknolojileri" />
-<br/>
-<img src="https://skillicons.dev/icons?i=prisma,postgres,sqlite,electron,tauri,flutter,docker,linux&theme=dark" alt="Veri, masaüstü ve araçlar" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>İş birliği ve proje fikirleri için: <a href="mailto:oktayyavuz_1@outlook.com">oktayyavuz_1@outlook.com</a></sub>
+<a href="mailto:oktayyavuz_1@outlook.com"><img src="./assets/contact.svg" width="100%" alt="İletişim" /></a>
 
 </div>
