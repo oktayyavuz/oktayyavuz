@@ -1,106 +1,69 @@
 <div align="center">
 
-# 👨‍💻 Oktay Yavuz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0E7490&height=180&section=header&text=Oktay%20Yavuz&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&descColor=A5F3FC" width="100%" alt="Oktay Yavuz" />
 
-### Full Stack Developer • 2016'dan beri kod yazıyorum
+**Web, masaüstü ve bot uygulamaları geliştiriyorum · 2016'dan beri kod yazıyorum · 🇹🇷 Türkiye**
 
-<a href="https://oktaydev.com"><img src="https://img.shields.io/badge/🌐_Web-oktaydev.com-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://me.oktaydev.com"><img src="https://img.shields.io/badge/👤_Kişisel-me.oktaydev.com-00CED1?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-<a href="mailto:oktayyavuz_1@outlook.com"><img src="https://img.shields.io/badge/📧_Email-oktayyavuz__1-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-
-<a href="https://github.com/oktayyavuz"><img src="https://img.shields.io/badge/GitHub-@oktayyavuz-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://discord.com/users/oktayyavuzjp"><img src="https://img.shields.io/badge/Discord-@oktayyavuzjp-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=oktayyavuz&label=Profil+Görüntüleme&color=000000&style=for-the-badge&label_color=000000" alt="profile views" />
+<a href="https://oktaydev.com"><img src="https://img.shields.io/badge/oktaydev.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Web" /></a>
+<a href="mailto:oktayyavuz_1@outlook.com"><img src="https://img.shields.io/badge/E--posta-0F172A?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="E-posta" /></a>
+<a href="https://discord.com/users/oktayyavuzjp"><img src="https://img.shields.io/badge/Discord-0F172A?style=for-the-badge&logo=discord&logoColor=22D3EE" alt="Discord" /></a>
+<a href="https://x.com/oktayyavuz_0"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=22D3EE" alt="X" /></a>
 
 </div>
 
 ---
 
-## 🚀 Hakkımda
+## Hakkımda
 
-```typescript
-const oktay = {
-    location: "🇹🇷 Türkiye",
-    journey: "2016'dan beri yazılım geliştiriyorum",
-    started_with: ["Arduino", "Minecraft Modları"],
-    currently: ["Modern Web Apps", "Discord Bots", "Full Stack"],
-    fun_fact: "Kod yazmadan önce çay hazırlarım ☕"
-};
-```
+Arduino ve Minecraft modlarıyla başladım; bugün web platformları, masaüstü uygulamaları ve Discord botları geliştiriyorum. **Rigel Techs** çatısı altında ürünleri fikirden yayına kadar uçtan uca hazırlıyorum.
+
+- 🔭 **Şu an:** Gecko tabanlı **Rigel Browser** ve **TürkAnimeList** üzerinde çalışıyorum
+- 🧩 **Odak:** Next.js / React, Node.js + Prisma, Electron ve Tauri
+- 💬 **Açığım:** Freelance projelere ve açık kaynak iş birliklerine
 
 ---
 
-## 💻 Teknolojiler
+## Öne Çıkan Projeler
+
+| Proje | Açıklama | Teknolojiler |
+| :-- | :-- | :-- |
+| **[Rigel Browser](https://github.com/oktayyavuz/RigelWebBrowser)** | Firefox (Gecko) tabanlı kişisel tarayıcı: 5 düzen, `Ctrl+K` komut paleti, çalışma alanları ve mod mağazası | `Gecko` `JavaScript` `CSS` |
+| **[Rigel Download Manager](https://github.com/oktayyavuz/rigel-download-manager)** | Linux için açık kaynak IDM alternatifi: tarayıcıdaki videoyu yakalar, `yt-dlp` + `aria2` ile indirir | `Tauri` `Next.js` `Chrome MV3` |
+| **[TürkAnimeList](https://github.com/oktayyavuz/turkanimelist)** | Türkçe altyazılı anime platformu; puanlama, yorumlar ve izleme listeleri · [demo](https://tal.oktaydev.com) | `Next.js 16` `React 19` `Prisma` |
+| **[Otaku Office](https://github.com/oktayyavuz/otakuoffice)** | Not defteri, PDF araçları ve yapılacaklar listesini bir araya getiren masaüstü uygulaması | `Electron` `React` `TypeScript` |
+| **[WeebPlay](https://github.com/oktayyavuz/weebplay)** | PiP, kaldığın yerden devam ve hareket kontrollü medya oynatıcı | `Flutter` |
+| **[Rimuru Bot](https://github.com/oktayyavuz/Rimuru-Discord.js-v14-Bot)** | Toplulukta altyapı olarak kullanılan genel amaçlı moderasyon botu · ⭐ 65 | `Discord.js v14` |
+| **[Frieren Bot](https://github.com/oktayyavuz/frieren-bot)** | Frieren temalı büyü, ekonomi ve müzik sistemli Discord botu | `Discord.js` |
+
+---
+
+## Teknolojiler
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,express&theme=dark" alt="Diller ve web teknolojileri" />
+<br/>
+<img src="https://skillicons.dev/icons?i=prisma,postgres,sqlite,electron,tauri,flutter,docker,linux&theme=dark" alt="Veri, masaüstü ve araçlar" />
 
 </div>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## Katkı Grafiği
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oktayyavuz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true" alt="github stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oktayyavuz&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="streak stats" />
-</div>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayyavuz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="top languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=oktayyavuz&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF" alt="activity graph" />
-</div>
----
-
-## 🌟 Öne Çıkan Projeler
-
-<div align="center">
-
-<a href="https://github.com/oktayyavuz/Rimuru-Discord.js-v14-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayyavuz&repo=Rimuru-Discord.js-v14-Bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/oktayyavuz/naofumi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayyavuz&repo=naofumi&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
-</a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oktayyavuz&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
-</div>
-
----
-
-
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad." alt="dev quote" />
-
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oktayyavuz/oktayyavuz/output/profile-night-view.svg">
+  <img src="https://raw.githubusercontent.com/oktayyavuz/oktayyavuz/output/profile-season-animate.svg" alt="3D katkı grafiği" width="100%" />
 </picture>
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Teşekkürler!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+<div align="center">
+
+<sub>İş birliği ve proje fikirleri için: <a href="mailto:oktayyavuz_1@outlook.com">oktayyavuz_1@outlook.com</a></sub>
 
 </div>
