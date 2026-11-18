@@ -1,0 +1,46 @@
+name: profile-cards
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-repo
+  cancel-in-progress: false
+
+jobs:
+  uret:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Veriyi çek
+        working-directory: cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node fetch-data.mjs
+
+      - name: Kartı üret
+        working-directory: cards
+        run: node build.mjs
+
+      - name: Değiştiyse commit at (bot olarak, katkı sayılmaz)
+        run: |
+          git add cards
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: hourly refresh"
+          git pull --rebase -q
+          git push

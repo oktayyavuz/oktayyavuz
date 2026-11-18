@@ -1,0 +1,45 @@
+name: daily-mark
+
+on:
+  schedule:
+    - cron: "30 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-repo
+  cancel-in-progress: false
+
+jobs:
+  iz:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Istanbul
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Bugün katkı var mı?
+        id: kontrol
+        working-directory: cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node daily-mark.mjs
+
+      - name: Yoksa tek commit at (senin adınla)
+        if: steps.kontrol.outputs.gerekli == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ID=$(gh api users/${{ github.repository_owner }} --jq .id)
+          git config user.name "Oktay Yavuz"
+          git config user.email "${ID}+${{ github.repository_owner }}@users.noreply.github.com"
+          git add cards/data/daily.json
+          git commit -m "chore: daily log ${{ steps.kontrol.outputs.tarih }}"
+          git pull --rebase -q
+          git push
