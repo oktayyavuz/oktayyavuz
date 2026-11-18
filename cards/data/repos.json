@@ -1,0 +1,463 @@
+[
+  {
+    "ad": "AllSocialMediaVideoDownloader",
+    "dil": "TypeScript",
+    "diller": {
+      "TypeScript": 77548,
+      "CSS": 22149,
+      "Batchfile": 4342,
+      "JavaScript": 1553,
+      "Shell": 657
+    },
+    "yildiz": 1,
+    "olusturma": "2026-03-30T10:21:47Z",
+    "push": "2026-03-30T10:31:25Z",
+    "commit": 1,
+    "son": {
+      "sha": "4be9e50",
+      "tarih": "2026-03-30T10:30:41Z"
+    }
+  },
+  {
+    "ad": "basvuru-paneli",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 18538,
+      "Batchfile": 63
+    },
+    "yildiz": 3,
+    "olusturma": "2024-07-10T14:13:04Z",
+    "push": "2024-07-10T14:16:22Z",
+    "commit": 1,
+    "son": {
+      "sha": "6aeb84f",
+      "tarih": "2024-07-10T14:15:59Z"
+    }
+  },
+  {
+    "ad": "biolink",
+    "dil": "HTML",
+    "diller": {
+      "HTML": 6914,
+      "CSS": 5294,
+      "JavaScript": 1555
+    },
+    "yildiz": 8,
+    "olusturma": "2024-04-24T08:21:55Z",
+    "push": "2024-04-29T15:56:20Z",
+    "commit": 23,
+    "son": {
+      "sha": "8edbb9d",
+      "tarih": "2024-04-29T15:56:20Z"
+    }
+  },
+  {
+    "ad": "bluesky-takip-yoneticisi",
+    "dil": "TypeScript",
+    "diller": {
+      "TypeScript": 204997,
+      "CSS": 18354,
+      "JavaScript": 14617,
+      "HTML": 3534
+    },
+    "yildiz": 1,
+    "olusturma": "2025-04-09T08:32:46Z",
+    "push": "2025-04-12T17:44:11Z",
+    "commit": 15,
+    "son": {
+      "sha": "2555ba4",
+      "tarih": "2025-04-12T17:44:07Z"
+    }
+  },
+  {
+    "ad": "frieren-bot",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 420444,
+      "TypeScript": 255463,
+      "Batchfile": 3698,
+      "CSS": 2300
+    },
+    "yildiz": 3,
+    "olusturma": "2026-05-25T14:28:40Z",
+    "push": "2026-05-25T16:43:46Z",
+    "commit": 6,
+    "son": {
+      "sha": "a11e697",
+      "tarih": "2026-05-25T16:43:45Z"
+    }
+  },
+  {
+    "ad": "ghostless",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 13925
+    },
+    "yildiz": 1,
+    "olusturma": "2026-11-17T10:49:23Z",
+    "push": "2026-11-17T10:49:29Z",
+    "commit": 1,
+    "son": {
+      "sha": "cc5c339",
+      "tarih": "2026-11-17T10:49:22Z"
+    }
+  },
+  {
+    "ad": "instagram-video-downloader",
+    "dil": "TypeScript",
+    "diller": {
+      "TypeScript": 85222,
+      "CSS": 4281,
+      "Batchfile": 995,
+      "JavaScript": 828
+    },
+    "yildiz": 2,
+    "olusturma": "2025-03-20T16:44:07Z",
+    "push": "2025-03-20T16:59:48Z",
+    "commit": 2,
+    "son": {
+      "sha": "672fc4d",
+      "tarih": "2025-03-20T16:59:48Z"
+    }
+  },
+  {
+    "ad": "kaldir",
+    "dil": "Python",
+    "diller": {
+      "Python": 52883,
+      "Shell": 6130
+    },
+    "yildiz": 0,
+    "olusturma": "2026-11-15T19:38:24Z",
+    "push": "2026-11-15T23:44:29Z",
+    "commit": 2,
+    "son": {
+      "sha": "6e16c48",
+      "tarih": "2026-11-15T23:44:23Z"
+    }
+  },
+  {
+    "ad": "kawaiimilliye",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 88541
+    },
+    "yildiz": 4,
+    "olusturma": "2021-06-21T06:44:19Z",
+    "push": "2021-06-21T06:54:36Z",
+    "commit": 3,
+    "son": {
+      "sha": "19a7aa0",
+      "tarih": "2021-06-21T06:54:36Z"
+    }
+  },
+  {
+    "ad": "Kirito-v14-Bot-Altyapisi",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 37875,
+      "Batchfile": 44
+    },
+    "yildiz": 6,
+    "olusturma": "2024-04-20T06:49:16Z",
+    "push": "2024-05-09T14:35:45Z",
+    "commit": 4,
+    "son": {
+      "sha": "855ead0",
+      "tarih": "2024-05-09T14:35:45Z"
+    }
+  },
+  {
+    "ad": "naofumi",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 460863,
+      "Batchfile": 50
+    },
+    "yildiz": 15,
+    "olusturma": "2024-08-23T18:38:33Z",
+    "push": "2026-04-09T09:23:02Z",
+    "commit": 7,
+    "son": {
+      "sha": "a237802",
+      "tarih": "2026-04-09T09:20:07Z"
+    }
+  },
+  {
+    "ad": "Naofumi-Telegram-Downloader",
+    "dil": "Python",
+    "diller": {
+      "Python": 20849
+    },
+    "yildiz": 2,
+    "olusturma": "2025-02-05T18:13:17Z",
+    "push": "2025-02-05T18:13:21Z",
+    "commit": 2,
+    "son": {
+      "sha": "0bbe2f2",
+      "tarih": "2025-02-05T18:14:19Z"
+    }
+  },
+  {
+    "ad": "okulprojesleri",
+    "dil": "C#",
+    "diller": {
+      "C#": 88907,
+      "HTML": 38987,
+      "CSS": 13374,
+      "Java": 8170,
+      "C": 5594,
+      "JavaScript": 3230
+    },
+    "yildiz": 1,
+    "olusturma": "2025-01-20T14:27:49Z",
+    "push": "2025-03-04T11:57:50Z",
+    "commit": 4,
+    "son": {
+      "sha": "5cb52d3",
+      "tarih": "2025-03-04T11:57:45Z"
+    }
+  },
+  {
+    "ad": "otakuoffice",
+    "dil": "TypeScript",
+    "diller": {
+      "TypeScript": 212572,
+      "CSS": 3953,
+      "JavaScript": 2942,
+      "HTML": 1088
+    },
+    "yildiz": 3,
+    "olusturma": "2025-11-03T16:59:33Z",
+    "push": "2025-11-03T17:12:00Z",
+    "commit": 3,
+    "son": {
+      "sha": "c582c30",
+      "tarih": "2025-11-03T17:12:00Z"
+    }
+  },
+  {
+    "ad": "portfolio-website",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 17233,
+      "HTML": 11360,
+      "CSS": 11037
+    },
+    "yildiz": 3,
+    "olusturma": "2024-07-22T10:50:30Z",
+    "push": "2024-07-22T10:53:51Z",
+    "commit": 1,
+    "son": {
+      "sha": "55589f7",
+      "tarih": "2024-07-22T10:52:51Z"
+    }
+  },
+  {
+    "ad": "rigel-download-manager",
+    "dil": "TypeScript",
+    "diller": {
+      "TypeScript": 85392,
+      "Rust": 60383,
+      "JavaScript": 47738,
+      "Shell": 20160,
+      "Python": 6677,
+      "CSS": 3274,
+      "HTML": 2360
+    },
+    "yildiz": 1,
+    "olusturma": "2026-08-24T21:40:20Z",
+    "push": "2026-08-24T22:23:45Z",
+    "commit": 8,
+    "son": {
+      "sha": "2df9f57",
+      "tarih": "2026-08-24T22:23:03Z"
+    }
+  },
+  {
+    "ad": "RigelWebBrowser",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 775304,
+      "CSS": 344704,
+      "Shell": 74527,
+      "PowerShell": 18354,
+      "HTML": 13243,
+      "Inno Setup": 8723,
+      "Batchfile": 2685
+    },
+    "yildiz": 1,
+    "olusturma": "2026-10-21T17:14:49Z",
+    "push": "2026-11-05T22:19:26Z",
+    "commit": 25,
+    "son": {
+      "sha": "0826264",
+      "tarih": "2026-11-05T22:19:24Z"
+    }
+  },
+  {
+    "ad": "Rimuru-Discord.js-v14-Bot",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 422700,
+      "EJS": 108303,
+      "CSS": 7037,
+      "Batchfile": 103
+    },
+    "yildiz": 65,
+    "olusturma": "2024-04-19T11:34:09Z",
+    "push": "2026-04-28T15:12:59Z",
+    "commit": 100,
+    "son": {
+      "sha": "d08e829",
+      "tarih": "2026-04-28T15:12:42Z"
+    }
+  },
+  {
+    "ad": "rimurushopmusic",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 15769,
+      "Batchfile": 63
+    },
+    "yildiz": 5,
+    "olusturma": "2024-07-24T16:46:14Z",
+    "push": "2024-07-24T17:01:57Z",
+    "commit": 3,
+    "son": {
+      "sha": "c4d97d9",
+      "tarih": "2024-07-24T17:01:57Z"
+    }
+  },
+  {
+    "ad": "V14-Abone-Guard",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 27023,
+      "Batchfile": 63
+    },
+    "yildiz": 3,
+    "olusturma": "2024-07-04T16:37:16Z",
+    "push": "2024-07-04T16:39:14Z",
+    "commit": 2,
+    "son": {
+      "sha": "2ecc2fa",
+      "tarih": "2024-07-04T16:39:08Z"
+    }
+  },
+  {
+    "ad": "videoDownloaderAllPlatform",
+    "dil": "TypeScript",
+    "diller": {
+      "TypeScript": 64154,
+      "CSS": 2122,
+      "JavaScript": 1645
+    },
+    "yildiz": 1,
+    "olusturma": "2025-10-25T17:49:06Z",
+    "push": "2025-10-25T18:26:00Z",
+    "commit": 3,
+    "son": {
+      "sha": "6e7e834",
+      "tarih": "2025-10-25T18:25:59Z"
+    }
+  },
+  {
+    "ad": "Weeb-Dev-Guard",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 21861,
+      "Batchfile": 76
+    },
+    "yildiz": 4,
+    "olusturma": "2025-01-29T09:47:31Z",
+    "push": "2025-01-29T09:50:14Z",
+    "commit": 3,
+    "son": {
+      "sha": "5650fc3",
+      "tarih": "2025-01-29T09:50:11Z"
+    }
+  },
+  {
+    "ad": "Weeb-Dev-Log",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 30793,
+      "Batchfile": 83
+    },
+    "yildiz": 2,
+    "olusturma": "2025-01-28T17:30:43Z",
+    "push": "2025-01-28T17:30:45Z",
+    "commit": 2,
+    "son": {
+      "sha": "a0f8979",
+      "tarih": "2025-01-28T17:30:34Z"
+    }
+  },
+  {
+    "ad": "Weeb-Dev-Ticket",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 14679,
+      "Batchfile": 86
+    },
+    "yildiz": 3,
+    "olusturma": "2025-01-30T16:12:00Z",
+    "push": "2025-01-30T16:22:23Z",
+    "commit": 3,
+    "son": {
+      "sha": "ee8b674",
+      "tarih": "2025-01-30T16:22:19Z"
+    }
+  },
+  {
+    "ad": "weebdevmusic",
+    "dil": "JavaScript",
+    "diller": {
+      "JavaScript": 16959,
+      "Batchfile": 63
+    },
+    "yildiz": 2,
+    "olusturma": "2024-12-22T13:09:12Z",
+    "push": "2024-12-22T13:11:30Z",
+    "commit": 1,
+    "son": {
+      "sha": "553b479",
+      "tarih": "2024-12-22T13:12:05Z"
+    }
+  },
+  {
+    "ad": "weeblink",
+    "dil": "TypeScript",
+    "diller": {
+      "TypeScript": 169673,
+      "JavaScript": 605,
+      "CSS": 488
+    },
+    "yildiz": 2,
+    "olusturma": "2025-10-08T18:52:48Z",
+    "push": "2025-10-24T17:25:44Z",
+    "commit": 6,
+    "son": {
+      "sha": "b6130d8",
+      "tarih": "2025-10-24T17:26:43Z"
+    }
+  },
+  {
+    "ad": "weebplay",
+    "dil": "Dart",
+    "diller": {
+      "Dart": 153372,
+      "HTML": 140949,
+      "Kotlin": 116
+    },
+    "yildiz": 1,
+    "olusturma": "2026-03-30T12:20:19Z",
+    "push": "2026-03-30T12:33:18Z",
+    "commit": 1,
+    "son": {
+      "sha": "ac21a94",
+      "tarih": "2026-03-30T12:26:23Z"
+    }
+  }
+]
