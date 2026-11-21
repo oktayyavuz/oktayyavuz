@@ -89,17 +89,18 @@
   },
   {
     "ad": "ghostless",
-    "dil": "JavaScript",
+    "dil": "HTML",
     "diller": {
-      "JavaScript": 13925
+      "HTML": 561787,
+      "JavaScript": 42952
     },
     "yildiz": 1,
     "olusturma": "2026-11-17T10:49:23Z",
-    "push": "2026-11-17T10:49:29Z",
-    "commit": 1,
+    "push": "2026-11-20T23:04:40Z",
+    "commit": 5,
     "son": {
-      "sha": "cc5c339",
-      "tarih": "2026-11-17T10:49:22Z"
+      "sha": "e9b94a5",
+      "tarih": "2026-11-20T22:55:48Z"
     }
   },
   {
