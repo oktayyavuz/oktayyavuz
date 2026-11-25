@@ -91,16 +91,16 @@
     "ad": "ghostless",
     "dil": "HTML",
     "diller": {
-      "HTML": 561787,
-      "JavaScript": 42952
+      "HTML": 798614,
+      "JavaScript": 50706
     },
     "yildiz": 1,
     "olusturma": "2026-11-17T10:49:23Z",
-    "push": "2026-11-20T23:04:40Z",
-    "commit": 5,
+    "push": "2026-11-25T05:24:06Z",
+    "commit": 7,
     "son": {
-      "sha": "e9b94a5",
-      "tarih": "2026-11-20T22:55:48Z"
+      "sha": "afaf17d",
+      "tarih": "2026-11-25T05:23:34Z"
     }
   },
   {
